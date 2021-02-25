@@ -1,0 +1,3 @@
+package com.dmytroivanovv.hiltplayground
+
+interface IViewModel
